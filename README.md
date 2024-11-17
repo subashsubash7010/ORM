@@ -51,7 +51,7 @@ admin.site.register(bankloan,userAdmin)
 ```
 
 ## OUTPUT
-[text](../proj1/manage.py)
+![alt text](<../Screenshot 2024-11-17 222818.png>)
 
 Include the screenshot of your admin page.
 
