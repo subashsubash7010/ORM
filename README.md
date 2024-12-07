@@ -50,6 +50,17 @@ admin.site.register(bankloan,userAdmin)
 
 ```
 
+
+
+
+
+
+
+
+
+
+
+
 ## OUTPUT
 ![alt text](<Screenshot 2024-11-17 222818.png>)
 
